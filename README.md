@@ -34,8 +34,8 @@
 ## Примеры работы:
 
 <p align="center">
-  <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/data/first_best.png" width="30%" />
-  <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/data/second_best.png" width="30%" />
-  <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/data/third_best.png" width="30%" />
+  <img src="https://github.com/Belladonna03/GA4RoboTrailer/blob/master/data/first_best.png" width="30%" />
+  <img src="https://github.com/Belladonna03/GA4RoboTrailer/blob/master/data/second_best.png" width="30%" />
+  <img src="https://github.com/Belladonna03/GA4RoboTrailer/master/data/third_best.png" width="30%" />
 </p>
 
