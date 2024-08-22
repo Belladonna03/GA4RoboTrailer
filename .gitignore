@@ -24,8 +24,5 @@ node_modules/
 results/
 output/
 
-# Исключить файлы с данными
-data/
-
 # Исключить файлы с изображениями
 images/
